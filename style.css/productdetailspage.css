@@ -1,0 +1,181 @@
+.item1{
+    text-align: center;
+    align-content: center;
+    background-image: url(../html/img/table.jpg);
+    color: white;
+    height: 100px;
+}
+.container1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+button{
+    width:100px;
+    height: 40px;
+    background-color: darkblue;
+    color: white;
+    border-radius: 10px;
+}
+@media screen and (max-width:426px){
+    .container1{
+        display: grid;
+        flex-direction: column;
+        background-color: darkkhaki;
+    }
+}
+.parent3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 80px;
+}
+.dcard1{
+    background-color:whitesmoke;
+    height: 240px;
+    width:200px;
+    box-shadow: 7px 7px 20px gray;
+}
+.plus1{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -50px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.plus1:hover{
+    background-color:darkslateblue;
+}
+.dcard2{
+    background-color:whitesmoke;
+    height: 240px;
+    width:200px;
+    box-shadow: 7px 7px 20px gray;
+}
+.plus2{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -50px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.plus2:hover{
+    background-color:darkslateblue;
+}
+.dcard3{
+    background-color:whitesmoke;
+    height: 240px;
+    width:200px;
+    box-shadow: 7px 7px 20px gray;
+}
+.plus3{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -50px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.plus3:hover{
+    background-color:darkslateblue;
+}
+.dcard4{
+    background-color:whitesmoke;
+    height: 240px;
+    width:200px;
+    box-shadow: 7px 7px 20px gray;
+}
+.plus4{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -50px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.plus4:hover{
+    background-color:darkslateblue;
+}
+.dcard5{
+    background-color:whitesmoke;
+    height: 240px;
+    width:200px;
+    box-shadow: 7px 7px 20px gray;
+}
+.plus5{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -50px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.plus5:hover{
+    background-color:deepskyblue;
+}
+.dcard6{
+    background-color:whitesmoke;
+    height: 240px;
+    width:200px;
+    box-shadow: 7px 7px 20px gray;
+}
+.plus6{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -50px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.plus6:hover{
+    background-color:darkslateblue;
+}
+.dcard7{
+    background-color:whitesmoke;
+    height: 240px;
+    width:200px;
+    box-shadow: 7px 7px 20px gray;
+}
+.plus7{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -50px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.plus7:hover{
+    background-color:darkslateblue;
+}
