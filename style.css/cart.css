@@ -27,3 +27,112 @@ body{
 .navbar-nav .nav-item{
     margin: 0 20px;
 } 
+.card1{
+    display: flex;
+    background-color: cadetblue;
+    margin-top: 50px;
+    width: 500px;
+    height: 130px;
+}
+.citem0{
+    position: relative;
+    left:470px
+}
+.citemp1{
+    margin-left: 150px;
+}
+.citem3{
+    display: flex;
+    gap: 10px;
+}
+@media screen and (max-width:426px){
+    .card3{
+        position: relative;
+        right: 100px;
+    }
+    .card4{
+        position: relative;
+        right: 100px;
+    }
+    header{
+        width:690px;
+    }
+    footer{
+        width:680px;
+        margin-top: 50px;
+    }
+}
+.card2{
+    background-color: darkgoldenrod;
+    width: 300px;
+    height: 130px;
+    margin-top: 50px;
+}
+.card3{
+    display: flex;
+    background-color: darkkhaki;
+    margin-left: 92px;
+    margin-top: 30px;
+    width: 500px;
+    height: 130px;
+}
+.aitem0{
+    position: relative;
+    left:470px;
+}
+.aitemp1{
+    margin-left: 150px;
+}
+.aitem3{
+    display: flex;
+    gap: 10px;
+    margin-top: 30px;
+}
+.card4{
+    display: flex;
+    background-color: indianred;
+    margin-left: 92px;
+    margin-top: 30px;
+    width: 500px;
+    height: 130px;
+}
+.bitem0{
+    position: relative;
+    left:470px;
+}
+.bitemp1{
+    margin-left: 150px;
+}
+.bitem3{
+    display: flex;
+    gap: 10px;
+}
+.parent1{
+    display: flex;
+    justify-content: space-evenly;
+}
+@media screen and (min-width:426px) and (max-width:769px){
+    .card3{
+        position: relative;
+        right: 90px;
+        background-color:yellowgreen;
+    }
+    .card4{
+        position: relative;
+        right: 90px;
+        background-color: darkseagreen;
+    }
+}
+@media screen and (min-width:769px) and (max-width:1024px){
+    .card3{
+        background-color:darkolivegreen;
+        position: relative;
+        right: 17px;
+    }
+    .card4{
+        position: relative;
+        right: 17px;
+        background-color:dimgray;
+    }
+    
+}
