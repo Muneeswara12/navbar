@@ -549,3 +549,186 @@ body{
 .nplus10:hover{
     background-color:darkslateblue;
 }
+.parentfour{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    grid-template-columns: auto auto auto;
+    gap:120px;
+    margin-top: 50px;
+}
+.bcard1{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.bplus1{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.bplus1:hover{
+    background-color:darkslateblue;
+}
+.bcard2{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.bplus2{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.bplus2:hover{
+    background-color:darkslateblue;
+}
+.bcard3{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 5px gray;
+}
+.bplus3{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.bplus3:hover{
+    background-color:darkslateblue;
+}
+.bcard4{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.bplus4{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.bplus4:hover{
+    background-color:darkslateblue;
+}
+.bcard5{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.bplus5{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.bplus5:hover{
+    background-color:darkslateblue;
+}
+.bcard6{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.bplus6{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.bplus6:hover{
+    background-color:darkslateblue;
+}
+.subparent{
+    display: grid;
+    grid-template-columns:auto auto;
+    column-gap: 50px;
+    margin-bottom: 100px;
+}
+.bcard7{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.bplus7{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.bplus7:hover{
+    background-color:darkslateblue;
+}
+.bcard8{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.bplus8{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.bplus8:hover{
+    background-color:darkslateblue;
+}
