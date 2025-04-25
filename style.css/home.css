@@ -190,3 +190,145 @@ body{
         align-content: center
     }
   }
+  .parenttwo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 100px;
+    margin-bottom: 80px;
+}
+.dcard1{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+#card_link{
+    text-decoration: none;
+    color: black;
+}
+.badge{
+    background-color:darkblue;
+    height: 20px;
+}
+.plus1{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -20px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.plus1:hover{
+    background-color:darkslateblue;
+}
+.dcard2{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.plus2{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top:-60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.plus2:hover{
+    background-color: darkblue;
+}
+.dcard3{
+    background-color:white;
+    box-shadow:7px 7px 18px gray;
+    height: 280px;
+    width:200px;
+}
+.plus3{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top:-60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.plus3:hover{
+    background-color: darkblue;
+}
+
+.dcard4{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.plus4{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top:-60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.plus4:hover{
+    background-color: darkblue;
+}
+.dcard5{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.plus5{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top:-60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.plus5:hover{
+    background-color: darkblue;
+}
+.dcard6{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.plus6{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top:-60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.plus6:hover{
+    background-color: darkblue;
+}
