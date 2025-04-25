@@ -332,3 +332,220 @@ body{
 .plus6:hover{
     background-color: darkblue;
 }
+.parentthree{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:120px;
+    margin-bottom: 30px;
+}
+.ncard1{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.nplus1{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.nplus1:hover{
+    background-color:darkslateblue;
+}
+.ncard2{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.nplus2{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.nplus2:hover{
+    background-color:darkslateblue;
+}
+.ncard3{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.nplus3{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.nplus3:hover{
+    background-color:darkslateblue;
+}
+.ncard4{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.nplus4{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.nplus4:hover{
+    background-color:darkslateblue;
+}
+.ncard5{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.nplus5{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.nplus5:hover{
+    background-color:darkslateblue;
+}
+.ncard6{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.nplus6{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.nplus6:hover{
+    background-color:darkslateblue;
+}
+.ncard7{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.nplus7{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.nplus7:hover{
+    background-color:darkslateblue;
+}
+.ncard8{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.nplus8{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.nplus8:hover{
+    background-color:darkslateblue;
+}
+.ncard9{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.nplus9{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.nplus9:hover{
+    background-color:darkslateblue;
+}
+.ncard10{
+    background-color:white;
+    height: 280px;
+    width:200px;
+    box-shadow:7px 7px 18px gray;
+}
+.nplus10{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: -60px;
+    border-radius: 50%;
+    border: 0px solid red;
+    background-color:floralwhite;
+    height: 25px;
+    width: 25px;
+}
+.nplus10:hover{
+    background-color:darkslateblue;
+}
