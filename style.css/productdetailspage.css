@@ -208,3 +208,34 @@ button{
 .plus7:hover{
     background-color:darkslateblue;
 }
+.parentfive{
+    display: grid;
+    grid-template-columns: 20% 25% 25% 25%;
+    column-gap:10px;
+    justify-content: center;
+    background-color: darkslateblue;
+    color: white;
+    margin-top: 50px;
+}
+.lockimg{
+    margin-left: 10px;
+}
+@media screen and (max-width:426px){
+    .parentfive{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    h4{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .subparent{
+        display: flex;
+        flex-direction: column;
+    }
+    .bcard8{
+        margin-top: 100px;
+    }
+
+}
